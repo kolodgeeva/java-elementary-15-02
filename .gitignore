@@ -1,0 +1,4 @@
+# Project exclude paths
+/out/
+/.idea/
+/java-elementary-15-02.iml
